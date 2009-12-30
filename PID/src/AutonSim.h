@@ -13,5 +13,9 @@
 	double t = 0;
 	double pointsX[4] = {p1[0], p2[0], p3[0], p4[0]};
 	double pointsY[4] = {p1[1], p2[1], p3[1], p4[1]};
+	double angleCurrent = 0;
+	double xCurrent = 0;
+	double yCurrent = 0;
+	double velocityCurrent = 0;
 
 #endif /*AUTONSIM_H_*/
